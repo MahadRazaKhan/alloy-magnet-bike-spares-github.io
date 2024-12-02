@@ -14,10 +14,7 @@ Welcome to **Alloy Magnet Bike Spares**, your one-stop destination for high-qual
 - **User-Friendly Interface**: Modern and clean design for easy navigation.
 
 ---
-
-## Demo
-
-Check out the website in action!  
+  
 ![Alloy Magnet Bike Spares Demo](https://media4.giphy.com/media/3oEjI6waLvuReDdpFC/200.gif?cid=6c09b952eayqe8b9plfmlvfaw45e4jeu3kvox8s2nnq2gt0r&ep=v1_internal_gif_by_id&rid=200.gif&ct=g)
 
 ---
