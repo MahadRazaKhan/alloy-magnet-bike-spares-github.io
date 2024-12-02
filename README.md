@@ -4,8 +4,6 @@ Welcome to **Alloy Magnet Bike Spares**, your one-stop destination for high-qual
 
 ![Alloy Magnet Bike Spares Screenshot](Screenshot_2024_12_02-1.png)
 
----
-
 <table>
   <tr>
     <td align="center">
