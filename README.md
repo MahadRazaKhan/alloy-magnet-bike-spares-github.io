@@ -12,11 +12,7 @@ Welcome to **Alloy Magnet Bike Spares**, your one-stop destination for high-qual
 - **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 - **Search Functionality**: Quickly find the parts you need with an intuitive search bar.
 - **User-Friendly Interface**: Modern and clean design for easy navigation.
-
----
   
-![Alloy Magnet Bike Spares Demo](https://media4.giphy.com/media/3oEjI6waLvuReDdpFC/200.gif?cid=6c09b952eayqe8b9plfmlvfaw45e4jeu3kvox8s2nnq2gt0r&ep=v1_internal_gif_by_id&rid=200.gif&ct=g)
-
 ---
 
 ## Technologies Used
@@ -26,6 +22,7 @@ Welcome to **Alloy Magnet Bike Spares**, your one-stop destination for high-qual
 - **JavaScript (ES6)** for interactive elements and functionality.
 
 ---
+
 ## Gallery
 
 <table>
@@ -54,4 +51,8 @@ Welcome to **Alloy Magnet Bike Spares**, your one-stop destination for high-qual
     </td>
   </tr>
 </table>
+
+---
+
+![Alloy Magnet Bike Spares Demo](https://media4.giphy.com/media/3oEjI6waLvuReDdpFC/200.gif?cid=6c09b952eayqe8b9plfmlvfaw45e4jeu3kvox8s2nnq2gt0r&ep=v1_internal_gif_by_id&rid=200.gif&ct=g)
 
