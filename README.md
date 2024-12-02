@@ -6,25 +6,6 @@ Welcome to **Alloy Magnet Bike Spares**, your one-stop destination for high-qual
 
 ---
 
-## Features
-
-- **Product Listings**: Wide range of motorcycle spare parts with detailed descriptions and prices.
-- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
-- **Search Functionality**: Quickly find the parts you need with an intuitive search bar.
-- **User-Friendly Interface**: Modern and clean design for easy navigation.
-  
----
-
-## Technologies Used
-
-- **HTML5** for structuring the website.
-- **CSS3** for styling and responsive layout.
-- **JavaScript (ES6)** for interactive elements and functionality.
-
----
-
-## Gallery
-
 <table>
   <tr>
     <td align="center">
@@ -51,6 +32,23 @@ Welcome to **Alloy Magnet Bike Spares**, your one-stop destination for high-qual
     </td>
   </tr>
 </table>
+
+---
+
+## Features
+
+- **Product Listings**: Wide range of motorcycle spare parts with detailed descriptions and prices.
+- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
+- **Search Functionality**: Quickly find the parts you need with an intuitive search bar.
+- **User-Friendly Interface**: Modern and clean design for easy navigation.
+  
+---
+
+## Technologies Used
+
+- **HTML5** for structuring the website.
+- **CSS3** for styling and responsive layout.
+- **JavaScript (ES6)** for interactive elements and functionality.
 
 ---
 
