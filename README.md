@@ -28,31 +28,29 @@ Welcome to **Alloy Magnet Bike Spares**, your one-stop destination for high-qual
 ---
 ## Gallery
 
-Check out the different pages of the **Alloy Magnet Bike Spares** website below:
-
 <table>
   <tr>
     <td align="center">
-      <img src="images/home-page.png" alt="Home Page" width="300"/>
+      <img src="Screenshot_2024_12_02-2.png" width="300"/>
       <br/>
-      <b>Home Page</b>
+      <b></b>
     </td>
     <td align="center">
-      <img src="images/products-page.png" alt="Products Page" width="300"/>
+      <img src="Screenshot_2024_12_02-3.png" alt="Products Page" width="300"/>
       <br/>
-      <b>Products Page</b>
+      <b></b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/contact-page.png" alt="Contact Page" width="300"/>
+      <img src="Screenshot_2024_12_02-4.png" alt="Contact Page" width="300"/>
       <br/>
-      <b>Contact Page</b>
+      <b></b>
     </td>
     <td align="center">
-      <img src="images/about-us-page.png" alt="About Us Page" width="300"/>
+      <img src="Screenshot_2024_12_02-5.png" alt="About Us Page" width="300"/>
       <br/>
-      <b>About Us Page</b>
+      <b></b>
     </td>
   </tr>
 </table>
